@@ -3,8 +3,10 @@
 .vite-ssg-temp
 *.local
 dist
+demo
 dist-ssr
 node_modules
 .idea/
 *.log
 cypress/downloads
+.vercel

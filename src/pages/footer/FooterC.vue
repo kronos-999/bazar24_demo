@@ -1,0 +1,238 @@
+<script>
+export default {
+  props: {
+    theme: {
+      type: String,
+      default: 'red',
+    },
+  },
+}
+</script>
+
+<template>
+  <footer class="body-font text-gray-600 dark:bg-gray-900 dark:text-gray-400">
+    <div class="mx-auto px-5 py-24 container">
+      <div class="flex flex-wrap text-center -mx-4 -mb-10 md:text-left">
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div class="w-full px-4 lg:w-1/6 md:w-1/2">
+          <h2 class="title-font mb-3 text-sm font-medium tracking-widest text-gray-900 dark:text-white">
+            CATEGORIES
+          </h2>
+          <nav class="mb-10 list-none">
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">First Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Second Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Third Link</a>
+            </li>
+            <li>
+              <a class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="border-t border-gray-200 dark:border-gray-800">
+      <div class="mx-auto flex flex-wrap items-center px-5 py-8 container">
+        <div class="flex flex-wrap items-end justify-center md:flex-nowrap md:justify-start">
+          <div class="relative mr-2 w-40 sm:mr-4 sm:w-64">
+            <label for="footer-field" class="text-sm leading-7 text-gray-600 dark:text-gray-400">Placeholder</label>
+            <input
+              id="footer-field"
+              type="text"
+              name="footer-field"
+              :class="`w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:ring-2 focus:bg-transparent focus:ring-${theme}-200 focus:border-${theme}-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out dark:bg-gray-800 dark:bg-opacity-40 dark:border-gray-700 dark:focus:ring-${theme}-900 dark:text-gray-100`"
+            >
+          </div>
+          <button
+            :class="`inline-flex text-white bg-${theme}-500 border-0 py-2 px-6 focus:outline-none hover:bg-${theme}-600 rounded`"
+          >
+            Button
+          </button>
+          <p class="mt-2 text-center text-sm text-gray-500 md:ml-6 md:mt-0 sm:text-left">
+            Bitters chicharrones fanny pack <br class="hidden lg:block">waistcoat green juice
+          </p>
+        </div>
+        <span class="mt-6 w-full inline-flex justify-center lg:ml-auto lg:mt-0 md:w-auto md:justify-start">
+          <a class="text-gray-500 dark:text-gray-400">
+            <svg
+              fill="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+            >
+              <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500 dark:text-gray-400">
+            <svg
+              fill="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"
+              />
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500 dark:text-gray-400">
+            <svg
+              fill="none"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+            >
+              <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
+              <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500 dark:text-gray-400">
+            <svg
+              fill="currentColor"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="0"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="none"
+                d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"
+              />
+              <circle cx="4" cy="4" r="2" stroke="none" />
+            </svg>
+          </a>
+        </span>
+      </div>
+    </div>
+    <div class="bg-gray-100 dark:bg-gray-800 dark:bg-opacity-75">
+      <div class="mx-auto flex flex-col flex-wrap px-5 py-4 container sm:flex-row">
+        <p class="text-center text-sm text-gray-500 sm:text-left dark:text-gray-400">
+          © 2020 Tailblocks —
+          <a
+            href="https://twitter.com/knyttneve"
+            class="ml-1 text-gray-600 dark:text-gray-500"
+            target="_blank"
+            rel="noopener noreferrer"
+          >@knyttneve</a>
+        </p>
+        <span
+          class="mt-2 w-full text-center text-sm text-gray-500 sm:ml-auto sm:mt-0 sm:w-auto sm:text-left dark:text-gray-400"
+        >Enamel pin tousled raclette tacos irony</span>
+      </div>
+    </div>
+  </footer>
+</template>
+
+<route lang="yaml">
+meta:
+  layout: empty
+</route>
+
+<style></style>
